@@ -4,4 +4,4 @@ Most of our time is going to involve processing/cleaning/munging data. How do yo
 
 Source: https://www.youtube.com/watch?v=iYie42M1ZyU&t=1639s
 
-### **First part**: is the basics, where we use gapminder.tsv file
+### **1. First part**: is the basics, where we use gapminder.tsv file.
