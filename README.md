@@ -6,4 +6,4 @@ Source: https://www.youtube.com/watch?v=iYie42M1ZyU&t=1639s
 
 ### **1. First part**: is the basics, where we use gapminder.tsv file.
 
-### ** 2. Second Part**: it includes other advance concepts using other data sets like pew.csv, billboard.csv and country_timeseries.csv
+### **2. Second Part**: it includes other advance concepts using other data sets like pew.csv, billboard.csv and country_timeseries.csv
